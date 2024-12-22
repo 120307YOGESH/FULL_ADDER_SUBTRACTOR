@@ -39,12 +39,15 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 
 FULL ADDER
+
 ![image](https://github.com/user-attachments/assets/e82d0bf9-0477-4312-b745-c9a3c2dd71d4)
 
 FULL SUBTRACTOR
+
 ![image](https://github.com/user-attachments/assets/4f97133b-ddc5-4612-8478-49d36082c86b)
 
 **Procedure**
+
 1 Type the programme in Quartus software.
 2 Compile and run the program.
 3 Generate the RTL schematic and save the logic digram.
@@ -81,18 +84,22 @@ RegisterNumber:24001573
 **RTL Schematic**
 
 FULL ADDER
+
 ![image](https://github.com/user-attachments/assets/c815a272-c971-4849-bb4e-72c3965e71d5)
 
 FULL SUBTRACTOR
+
 ![image](https://github.com/user-attachments/assets/ad6ed2e0-0769-4cd4-837e-1e10a3fc4380)
 
 
 **Output Timing Waveform**
 
 FULL ADDER 
+
 ![image](https://github.com/user-attachments/assets/0fbfbf9c-258f-487c-a971-f5042c01b951)
 
 FULL SUBTRACTOR
+
 ![image](https://github.com/user-attachments/assets/87a9ec52-6364-45d4-9c38-973ddc6a952f)
 
 **Result:**
